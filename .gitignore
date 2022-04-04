@@ -130,3 +130,5 @@ dmypy.json
 
 covid-chestxray-dataset
 .vscode
+
+/.DS_Store
